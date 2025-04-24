@@ -9,3 +9,4 @@ objectives such as really usefull to work upon
 4.Average salary by postname
 5.Analyze tenure of employee
 6.Salary distribution by age
+7.Show the new Hires
