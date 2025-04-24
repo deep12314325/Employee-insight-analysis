@@ -8,3 +8,4 @@ objectives such as really usefull to work upon
 3.salary distribution over frequency using histogram
 4.Average salary by postname
 5.Analyze tenure of employee
+6.Salary distribution by age
