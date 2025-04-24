@@ -3,3 +3,5 @@ step 1:
 fixed the data
 do some objectives
 objectives such as really usefull to work upon
+1.EDA analysis
+2.NA fixing
