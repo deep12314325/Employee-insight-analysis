@@ -10,3 +10,4 @@ objectives such as really usefull to work upon
 5.Analyze tenure of employee
 6.Salary distribution by age
 7.Show the new Hires
+8.Hiring trends in every age group
